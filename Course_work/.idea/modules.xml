@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work.iml" filepath="$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work_main.iml" group="TYAPIMT_Course_work" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TYAPIMT_Course_work_test.iml" group="TYAPIMT_Course_work" />
+    </modules>
+  </component>
+</project>
